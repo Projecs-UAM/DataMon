@@ -7,6 +7,7 @@ Este projeto é uma análise descritiva realizada para a atividade A3 da UC Aná
 ### Integrantes
 - Gustavo Corrêa Mendes - RA: 1292225707
 - Vinicius Pereira de Sousa - RA: 12523163043
+- Beatriz freitas monteiro - RA: 125111356183
 
 ## Requisitos do Projeto
 
