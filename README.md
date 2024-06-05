@@ -9,6 +9,7 @@ Este projeto é uma análise descritiva realizada para a atividade A3 da UC Aná
 - Vinicius Pereira de Sousa - RA: 12523163043
 - Beatriz freitas monteiro - RA: 125111356183
 - Vinícius Marques de Souza - RA: 12523130849
+- Rubens de Jesus Souza - RA: 11585272841
 
 ## Requisitos do Projeto
 
