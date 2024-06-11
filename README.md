@@ -75,10 +75,6 @@ Para a análise, foram utilizadas as seguintes bibliotecas:
 
 
 
-
-<<<<<<< Updated upstream
-=======
-
 ![App Screenshot](image\1.png)
 
 ### Avaliar a necessidade da transformação da variável em outra escala (agrupar idade por faixas, por exemplo)
@@ -227,4 +223,3 @@ Enfim, aprendizados.
 
 Aqui vemos que as variáveis que mais dizem algo relevante, onde há mais discrepâncias e dados valiosos estão nas colunas "total", "sp_atq" (superataque), "sp_def" (superdefesa) e "velocidade"
 Essa seleção de variáveis abre margem para novas análises e insights, como por exemplo, ver qual tipo de pokemon contém os maiores valores em cada uma dessas variáveis, ou até mesmo, ver se há alguma relação entre essas variáveis e a geração do pokemon, ou coisa parecida.
->>>>>>> Stashed changes
