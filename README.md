@@ -85,67 +85,63 @@ Após importar as bibliotecas necessárias, carregamos a base de dados para inic
 
 Não vimos necessidade de escalar as variáveis, pois o dataset é pequeno e autoexplicativo.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="image\Avaliar.png">
 
 ### Ralizando a codificação das variáveis categóricas de acordo com os valores das variáveis (label encoder, one hot encoder ou target encoder)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="image\Realizar.png">
 
 ### Normalizar as variáveis
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="image\Normalizar1.png">
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="image\Normalizar2.png">
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="image\Normalizar3.png">
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="image\Normalizar4.png"
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="image\Normalizar5.png">
+
+<img src="image\Normalizar6.png">
 
 Analisando a discrepância dos dados usando porcentagem, assim teremos um melhor insight sobre a distribuição dos dados e o que fazer com eles.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="image\Analisando.png">
 
 Deletando as colunas do tipo string para que possamos aplicar o SMOTE.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="image\Deletando.png">
 
 ### SMOTE - Synthetic Minority Over-sampling Technique
 
 Cria cópias sintéticas (não existentes) dos Pokémons lendários para equilibrar as classes.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="image\Smote1.png">
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="image\Smote2.png">
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="image\Smote3.png">
 
 ## Aplicando os modelos SVM e KNN e testando a sua acurácia, precisão e revocação.
 
 ### SVM - Support Vector Machine
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="image\SVM.png">
 
 ### KNN - K-Nearest Neighbors
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="image\knn.png">
 
 ### Tratar variáveis com alta correlação
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="image\Tratar1.png">
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="image\Tratar2.png">
+
+<img src="image\Tratar3.png">
+
+<img src="image\Tratar4.png">
 
 Com esse gráfico, notamos que há pouca correlação entre as variáveis, o que é bom para o modelo. Não será necessário remover ou tratar nenhuma variável.
 
@@ -159,42 +155,24 @@ Lembrando que a leitura desse gráfico se dá pelo seguinte:
 
 Variáveis com alta correlação ou correlação invertida podem ser um problema para o modelo, pois ele não saberá qual variável é mais importante para a previsão, além de que o modelo também não consegue analisar a importância da individualidade da classe. Isso pode causar overfitting, ou seja, o modelo se ajusta muito bem aos dados de treino, mas não consegue generalizar para novos dados.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="image\Variaveis.png">
 
 ### Plotagem de dados, Scatter, Matriz de confusão e Linha de saída.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="image\Plotagem1.png">
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="image\Plotagem2.png">
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="image\Plotagem3.png">
 
 
 Esse nosso modelo não ficou muito bom, pois ele não conseguiu prever corretamente os pokemons lendários, o que é o nosso foco. Talvez seja por conta da quantidade de dados, ou por conta da quantidade de variáveis que não são tão relevantes para a previsão.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="image\Modelo1.png">
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="image\Modelo2.png">
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="image\Modelo3.png">
 
 ## Agora, sim, o modelo conseguiu prever corretamente os pokemons lendários, o que é o nosso foco.
 
@@ -203,15 +181,12 @@ Esse nosso modelo não ficou muito bom, pois ele não conseguiu prever corretame
 Se isso não for levado em consideração, seu modelo por sofrer de overfitting, ou seja, ele se ajusta muito bem aos dados de treino, mas não consegue generalizar para novos dados.
 
 ## Regressão Linear com linha de saída
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="image\Regressao1.png">
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="image\Regressao2.png">
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="image\Regressao3.png">
 
 ## Conclusão
 
@@ -221,9 +196,7 @@ O ideal seria que as linhas azuis e vermelhas estivessem o mais próximas possí
 
 Enfim, aprendizados.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="image\Conclusao.png">
 
 Aqui vemos que as variáveis que mais dizem algo relevante, onde há mais discrepâncias e dados valiosos estão nas colunas "total", "sp_atq" (superataque), "sp_def" (superdefesa) e "velocidade"
 Essa seleção de variáveis abre margem para novas análises e insights, como por exemplo, ver qual tipo de pokemon contém os maiores valores em cada uma dessas variáveis, ou até mesmo, ver se há alguma relação entre essas variáveis e a geração do pokemon, ou coisa parecida.
