@@ -53,9 +53,6 @@ A base de dados utilizada contém informações sobre Pokémons. As colunas pres
 - Speed: Velocidade do Pokémon – Tipo Int
 - Generation: Geração à qual o Pokémon pertence – Tipo Int
 - Legendary: Indica se o Pokémon é lendário – Tipo String (True/False)
-
-[Base utilizada no projeto](https://raw.githubusercontent.com/Projecs-UAM/DataMon/main/Pokemon.csv)
-
 ## Ferramentas Utilizadas
 
 Para a análise, foram utilizadas as seguintes bibliotecas:
@@ -73,9 +70,14 @@ Para a análise, foram utilizadas as seguintes bibliotecas:
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/)
 
+## Carregamento da Base de Dados
+
+Após importar as bibliotecas necessárias, carregamos a base de dados para iniciar a análise.
+
+- [Base utilizada no projeto](https://raw.githubusercontent.com/Projecs-UAM/DataMon/main/Pokemon.csv)
 
 
-![App Screenshot](image\1.png)
+![App Screenshot](https://ibb.co/KXRQ2d0)
 
 ### Avaliar a necessidade da transformação da variável em outra escala (agrupar idade por faixas, por exemplo)
 
