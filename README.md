@@ -70,6 +70,8 @@ Para a análise, foram utilizadas as seguintes bibliotecas:
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/)
 
+<img src="image\Blibio.png">
+
 ## Carregamento da Base de Dados
 
 Após importar as bibliotecas necessárias, carregamos a base de dados para iniciar a análise.
@@ -77,7 +79,7 @@ Após importar as bibliotecas necessárias, carregamos a base de dados para inic
 - [Base utilizada no projeto](https://raw.githubusercontent.com/Projecs-UAM/DataMon/main/Pokemon.csv)
 
 
-<img src="image\1.png">
+<img src="image\BaseLoad.png">
 
 ### Avaliar a necessidade da transformação da variável em outra escala (agrupar idade por faixas, por exemplo)
 
