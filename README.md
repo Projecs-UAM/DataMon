@@ -99,7 +99,7 @@ Não vimos necessidade de escalar as variáveis, pois o dataset é pequeno e aut
 
 <img src="image\Normalizar3.png">
 
-<img src="image\Normalizar4.png"
+<img src="image\Normalizar4.png">
 
 <img src="image\Normalizar5.png">
 
