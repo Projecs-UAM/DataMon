@@ -77,7 +77,7 @@ Após importar as bibliotecas necessárias, carregamos a base de dados para inic
 - [Base utilizada no projeto](https://raw.githubusercontent.com/Projecs-UAM/DataMon/main/Pokemon.csv)
 
 
-![App Screenshot](https://ibb.co/KXRQ2d0)
+![App Screenshot](image\1.png)
 
 ### Avaliar a necessidade da transformação da variável em outra escala (agrupar idade por faixas, por exemplo)
 
